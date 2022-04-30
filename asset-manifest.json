@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.79023507.js",
-    "static/js/787.e95a9064.chunk.js": "/static/js/787.e95a9064.chunk.js",
-    "static/media/height-map.png": "/static/media/height-map.be0bb7c2f882b961db7d.png",
-    "static/media/ny.jpg": "/static/media/ny.65081f00915fb754385d.jpg",
-    "static/media/NormalMap.png": "/static/media/NormalMap.e1e3a03d15de66a4ce6d.png",
-    "static/media/roughness-map.jpg": "/static/media/roughness-map.1bb6882d51af93391142.jpg",
-    "static/media/nz.jpg": "/static/media/nz.a396c806380c6e14627d.jpg",
-    "static/media/base-color.jpg": "/static/media/base-color.612ae72cbb90e7b40b81.jpg",
-    "static/media/px.jpg": "/static/media/px.35d22fd75d1a59f20f2c.jpg",
-    "static/media/pz.jpg": "/static/media/pz.68efb2fcc14bf412d26b.jpg",
-    "static/media/ambient-occlusion.jpg": "/static/media/ambient-occlusion.109bd15100fa2daebc4f.jpg",
-    "static/media/nx.jpg": "/static/media/nx.7b2ad29ffaae4eae07bc.jpg",
-    "static/media/Material1.jpg": "/static/media/Material1.54d317e2d04d623efcc3.jpg",
-    "static/media/dracoscene.gltf": "/static/media/dracoscene.16ec979e9de29b265b52.gltf",
-    "static/media/py.jpg": "/static/media/py.d983fb5e55a3c54bc4e2.jpg",
-    "index.html": "/index.html",
-    "main.79023507.js.map": "/static/js/main.79023507.js.map",
-    "787.e95a9064.chunk.js.map": "/static/js/787.e95a9064.chunk.js.map"
+    "main.js": "/WindMillProject/static/js/main.a6e5d27c.js",
+    "static/js/787.e95a9064.chunk.js": "/WindMillProject/static/js/787.e95a9064.chunk.js",
+    "static/media/height-map.png": "/WindMillProject/static/media/height-map.be0bb7c2f882b961db7d.png",
+    "static/media/ny.jpg": "/WindMillProject/static/media/ny.65081f00915fb754385d.jpg",
+    "static/media/NormalMap.png": "/WindMillProject/static/media/NormalMap.e1e3a03d15de66a4ce6d.png",
+    "static/media/roughness-map.jpg": "/WindMillProject/static/media/roughness-map.1bb6882d51af93391142.jpg",
+    "static/media/nz.jpg": "/WindMillProject/static/media/nz.a396c806380c6e14627d.jpg",
+    "static/media/base-color.jpg": "/WindMillProject/static/media/base-color.612ae72cbb90e7b40b81.jpg",
+    "static/media/px.jpg": "/WindMillProject/static/media/px.35d22fd75d1a59f20f2c.jpg",
+    "static/media/pz.jpg": "/WindMillProject/static/media/pz.68efb2fcc14bf412d26b.jpg",
+    "static/media/ambient-occlusion.jpg": "/WindMillProject/static/media/ambient-occlusion.109bd15100fa2daebc4f.jpg",
+    "static/media/nx.jpg": "/WindMillProject/static/media/nx.7b2ad29ffaae4eae07bc.jpg",
+    "static/media/Material1.jpg": "/WindMillProject/static/media/Material1.54d317e2d04d623efcc3.jpg",
+    "static/media/dracoscene.gltf": "/WindMillProject/static/media/dracoscene.16ec979e9de29b265b52.gltf",
+    "static/media/py.jpg": "/WindMillProject/static/media/py.d983fb5e55a3c54bc4e2.jpg",
+    "index.html": "/WindMillProject/index.html",
+    "main.a6e5d27c.js.map": "/WindMillProject/static/js/main.a6e5d27c.js.map",
+    "787.e95a9064.chunk.js.map": "/WindMillProject/static/js/787.e95a9064.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.79023507.js"
+    "static/js/main.a6e5d27c.js"
   ]
 }

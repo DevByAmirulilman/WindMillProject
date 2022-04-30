@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/WindMillProject/static/js/main.3f3cd0cb.js",
+    "main.js": "/WindMillProject/static/js/main.aafced6c.js",
     "static/js/787.e95a9064.chunk.js": "/WindMillProject/static/js/787.e95a9064.chunk.js",
     "static/media/height-map.png": "/WindMillProject/static/media/height-map.be0bb7c2f882b961db7d.png",
     "static/media/ny.jpg": "/WindMillProject/static/media/ny.65081f00915fb754385d.jpg",
@@ -16,10 +16,10 @@
     "static/media/dracoscene.gltf": "/WindMillProject/static/media/dracoscene.16ec979e9de29b265b52.gltf",
     "static/media/py.jpg": "/WindMillProject/static/media/py.d983fb5e55a3c54bc4e2.jpg",
     "index.html": "/WindMillProject/index.html",
-    "main.3f3cd0cb.js.map": "/WindMillProject/static/js/main.3f3cd0cb.js.map",
+    "main.aafced6c.js.map": "/WindMillProject/static/js/main.aafced6c.js.map",
     "787.e95a9064.chunk.js.map": "/WindMillProject/static/js/787.e95a9064.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3f3cd0cb.js"
+    "static/js/main.aafced6c.js"
   ]
 }
